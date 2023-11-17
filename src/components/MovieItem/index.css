@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.movie-image {
+  width: 200px;
+  height: 150px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.popup-container {
+  background-color: white;
+  width: 700px;
+  height: 400px;
+}
+
+.modal-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.close-button {
+  align-self: flex-end;
+  background-color: transparent;
+  width: 30px;
+  height: 30px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.movie-player {
+  margin: 20px;
+}

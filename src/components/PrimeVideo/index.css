@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.prime-video-page {
+  height: 100vh;
+}
+.prime-video-image {
+  height: 250px;
+  width: 100vw;
+}
+.movies-section {
+  padding: 30px;
+  background-color: black;
+}
+h1 {
+  color: white;
+}
+.slider-container {
+  background-color: black;
+  padding: 40px;
+}
